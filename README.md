@@ -6,7 +6,10 @@
 ## Installation
 
 Install mongodb compass 
+```console
 https://www.mongodb.com/try/download/shell
+```
+
 
 Install library:
 
