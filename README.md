@@ -24,7 +24,7 @@ $ npm run seed
 ```
 
 ## Document API
-https://documenter.getpostman.com/view/20595460/2s8YeuJVTS
+
 
 ## Start Server
 
