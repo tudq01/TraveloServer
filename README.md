@@ -38,3 +38,10 @@ Start the server (dev):
 $ npm run dev
 ```
 
+
+
+Test server
+
+```console
+http://localhost:5000/api/location/list-provinces
+```
